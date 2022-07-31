@@ -32,3 +32,21 @@
 <img align="center"
       src="https://github.com/KinzaShaikh/Alumni-Website/blob/main/outputs/dashboard2.PNG" 
       alt="contact" height="500" width="820" />
+      
+
+<br/>
+<br/>
+<h2> Add Alumni</h1>
+
+<img align="center"
+      src="https://github.com/KinzaShaikh/Alumni-Website/blob/main/outputs/addAlumni.PNG" 
+      alt="contact" height="500" width="820" />
+      
+
+<br/>
+<br/>
+<h2>Create Event</h1>
+
+<img align="center"
+      src="https://github.com/KinzaShaikh/Alumni-Website/blob/main/outputs/createEvent.PNG" 
+      alt="contact" height="500" width="820" />
