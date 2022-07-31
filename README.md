@@ -1,1 +1,1 @@
-<h1>Full Stack Alumni Website</h1>
+<h1 align="center">Full Stack Alumni Website</h1>
