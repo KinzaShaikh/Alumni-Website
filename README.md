@@ -9,3 +9,26 @@
 <img align="center"
       src="https://github.com/KinzaShaikh/Alumni-Website/blob/main/outputs/login.PNG" 
       alt="login" height="500" width="820" />
+<br/>
+<br/>
+<h2> Gallery</h1>
+
+<img align="center"
+      src="https://github.com/KinzaShaikh/Alumni-Website/blob/main/outputs/gallery.PNG" 
+      alt="gallery" height="500" width="820" />
+
+<br/>
+<br/>
+<h2> Contact</h1>
+
+<img align="center"
+      src="https://github.com/KinzaShaikh/Alumni-Website/blob/main/outputs/contact.PNG" 
+      alt="contact" height="500" width="820" />
+
+<br/>
+<br/>
+<h2> Dashboard</h1>
+
+<img align="center"
+      src="https://github.com/KinzaShaikh/Alumni-Website/blob/main/outputs/dashboard2.PNG" 
+      alt="contact" height="500" width="820" />
